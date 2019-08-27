@@ -13,8 +13,13 @@ http://www.hongweipeng.com/index.php/archives/1369/
 
 了解Django表单处理
 
+了解Django 数据库处理API
+https://django-chinese-docs-16.readthedocs.io/en/latest/topics/db/queries.html
+
+
 
 看看Python时间处理
+
 https://django-chinese-docs-16.readthedocs.io/en/latest/topics/i18n/timezones.html
 
 https://docs.python.org/2.7/library/datetime.html#module-datetime
