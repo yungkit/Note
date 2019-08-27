@@ -10,3 +10,7 @@ https://blog.csdn.net/jinixin/article/details/79510545
 
 Django源码分析
 http://www.hongweipeng.com/index.php/archives/1369/
+
+
+看看Python时间处理
+https://django-chinese-docs-16.readthedocs.io/en/latest/topics/i18n/timezones.html
