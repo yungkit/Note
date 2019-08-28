@@ -25,4 +25,12 @@ https://django-chinese-docs-16.readthedocs.io/en/latest/topics/i18n/timezones.ht
 https://docs.python.org/2.7/library/datetime.html#module-datetime
 
 ## 2019-08-28
-回去后真的要上点心补补课了，太多知识点都没接触过。。。别玩手机了
+回去后真的要上点心补补课了，太多知识点都没接触过。。。别刷手机了
+
+python自省
+https://www.cnblogs.com/huxi/archive/2011/01/02/1924317.html
+
+MongoDB索引
+https://juejin.im/post/5ad1d2836fb9a028dd4eaae6
+
+https://blog.csdn.net/leshami/article/details/53817126
