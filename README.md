@@ -23,3 +23,6 @@ https://django-chinese-docs-16.readthedocs.io/en/latest/topics/db/queries.html
 https://django-chinese-docs-16.readthedocs.io/en/latest/topics/i18n/timezones.html
 
 https://docs.python.org/2.7/library/datetime.html#module-datetime
+
+## 2019-08-28
+回去后真的要上点心补补课了，太多知识点都没接触过。。。别玩手机了
