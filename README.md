@@ -34,3 +34,6 @@ MongoDB索引
 https://juejin.im/post/5ad1d2836fb9a028dd4eaae6
 
 https://blog.csdn.net/leshami/article/details/53817126
+
+## 2019-08-29
+还是按照之前的原则，全部刷掉
