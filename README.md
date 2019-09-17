@@ -47,3 +47,9 @@ https://www.cnblogs.com/duhuo/p/5695256.html
 jsonp
 
 https://www.zhihu.com/question/19966531
+
+## 2019-09-17
+* https://blog.csdn.net/caiguoxiong0101/article/details/50364236
+* https://zhuanlan.zhihu.com/p/32577890
+* https://github.com/nameko/nameko/blob/master/nameko/timer.py
+* https://blog.csdn.net/u010649766/article/details/79446798
