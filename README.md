@@ -53,3 +53,8 @@ https://www.zhihu.com/question/19966531
 * https://zhuanlan.zhihu.com/p/32577890
 * https://github.com/nameko/nameko/blob/master/nameko/timer.py
 * https://blog.csdn.net/u010649766/article/details/79446798
+
+http://www.ruanyifeng.com/blog/2017/05/websocket.html
+https://developer.mozilla.org/zh-CN/docs/Web/API/WebSocket
+https://www.cnblogs.com/Security-Darren/p/4168321.html
+https://juejin.im/post/5c9b963b6fb9a0710504b555
