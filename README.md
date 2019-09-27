@@ -58,3 +58,10 @@ http://www.ruanyifeng.com/blog/2017/05/websocket.html
 https://developer.mozilla.org/zh-CN/docs/Web/API/WebSocket
 https://www.cnblogs.com/Security-Darren/p/4168321.html
 https://juejin.im/post/5c9b963b6fb9a0710504b555
+
+## 2019-09-27
+https://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html
+https://www.cnblogs.com/feeland/p/4551054.html
+https://blog.csdn.net/gatieme/article/details/50908749
+
+
